@@ -1,0 +1,25 @@
+{
+    "personajes":[
+        {
+            "nombre": "Aventurero",
+            "nivel" : "35",
+            "clase" : "agua"
+        }
+    ],
+
+    "personajes":[
+        {
+            "nombre": "Explorador",
+            "nivel" : "42",
+            "clase" : "Investigacion"
+        }
+    ],
+
+    "personajes":[
+        {
+            "nombre": "Luchador",
+            "nivel" : "33",
+            "clase" : "Francotirador"
+        }
+    ]
+}
